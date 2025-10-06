@@ -1,0 +1,11 @@
+python 3.11.13
+pandas
+scikit-learn
+numpy
+yellowbrick
+matplotlib
+seaborn
+os
+pathlib
+jinja2
+pickle
