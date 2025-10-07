@@ -1,4 +1,16 @@
-python 3.11.13
+python-dotenv
+pyarrow
+pandas
+jupyterlab
+matplotlib
+scipy
+scikit-learn
+ipympl
+tiktoken
+openai
+ollama
+langchain-community
+plotly
 pandas
 scikit-learn
 numpy
