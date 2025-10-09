@@ -1,3 +1,4 @@
+![](src/image/meli7.png)
 # 🧩 Clustering y Clasificación de Sellers en E-Commerce – Proyecto de Análisis de Datos
 
 > **Proyecto de análisis avanzado de datos para entender, segmentar y predecir el comportamiento de vendedores en plataformas de comercio electrónico.**
@@ -55,7 +56,7 @@ Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddin
 
 ## 📈 Ejemplo visual (conceptual)
 
-![](src/image/meli6.png)> 
+![](src/image/meli6.png) 
 
 Representación conceptual de los clústeres y clasificación de vendedores según su comportamiento.
 
