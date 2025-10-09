@@ -1,0 +1,4501 @@
+,tim_day,seller_nickname,titulo,seller_reputation,stock,logistic_type,condition,is_refurbished,price,regular_price,categoria,url,category_id,category_name,index,Kmeans,AgC,Siglas_lt,Lt,mix,tokens
+26,2024-08-01,187ad66fb4,"Extensiones PestaÃ±as Diy, Kit De Racimos De PestaÃ±as Mixto",green_platinum,557,FBM,new,False,255.6,360.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1988890025-extensiones-pestanas-diy-kit-de-racimos-de-pestanas-mixto-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,3775.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+71,2024-08-01,db17875c67,Kit De Poligel LÃ¡mpara ExtensiÃ³n UÃ±as Completo Decoracion 10,green_platinum,149,FBM,new,False,369.55,389.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2657860040-kit-de-poligel-lampara-extension-unas-completo-decoracion-10-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,34166.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+74,2024-08-01,97dd3820b2,Eucerin Anti-pigment Crema Corporal 200ml ,green_platinum,0,XD,new,False,699.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2077272077-eucerin-anti-pigment-crema-corporal-200ml-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,23642.0,2.0,1.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+83,2024-08-01,8bc62b7ec7,Kit De ExtensiÃ³n De PestaÃ±as Diy For Accesorios De,green_platinum,266,FBM,new,False,229.95,315.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2943116450-kit-de-extension-de-pestanas-diy-for-accesorios-de-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,21756.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+93,2024-08-01,aef25b5a55,6 Piezas Polvo Para UÃ±as Efecto Aurora DecoraciÃ³n + Aplicado,green_platinum,222,FBM,new,False,86.18,139.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1348270600-6-piezas-polvo-para-unas-efecto-aurora-decoracion-aplicado-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,27203.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+106,2024-08-01,92ae055cb6,Tinte Profesional Permanente Igora Royal Schwarzkopf 60ml,green_platinum,587,FBM,new,False,194.74,204.99,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1911303819-tinte-profesional-permanente-igora-royal-schwarzkopf-60ml-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,22823.0,3.0,3.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+118,2024-08-01,28297bef4a,Mega Kit Profesional UÃ±as AcrÃ­licas + Lampara 36 W Mc Nails ,green_platinum,117,FBM,new,False,1424.05,1499.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-745846208-mega-kit-profesional-unas-acrilicas-lampara-36-w-mc-nails-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,6254.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+138,2024-08-01,3eb94cc763,Esmaltes Kits Para UÃ±as Gel Dzhan Vogue Gel Para UÃ±as,green_gold,284,FBM,new,False,179.58,299.3,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1749356717-esmaltes-kits-para-unas-gel-dzhan-vogue-gel-para-unas-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,9699.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+139,2024-08-01,04a3e21ed1,Tinte Profesional Permanente Igora Royal Schwarzkopf 60ml,green_platinum,240,FBM,new,False,190.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1349265198-tinte-profesional-permanente-igora-royal-schwarzkopf-60ml-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,697.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+142,2024-08-01,db17875c67,Kit Gelish UÃ±as Esmalte Lampara Uv Kit Decoracion UÃ±as Tips,green_platinum,16,FBM,new,False,376.2,396.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2438538692-kit-gelish-unas-esmalte-lampara-uv-kit-decoracion-unas-tips-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,34166.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+162,2024-08-01,07f9389516,Set 5 Labiales Mate Mousse Top Five Italia Deluxe Original,green_gold,24,FBM,new,False,229.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1571700647-set-5-labiales-mate-mousse-top-five-italia-deluxe-original-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,1233.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+167,2024-08-01,1ed0d6f89e,"Kit Practi Spa (pedicure Y Manicure) 10 Pz, Mc Nails",green_platinum,131,FBM,new,False,245.65,289.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1635187668-kit-practi-spa-pedicure-y-manicure-10-pz-mc-nails-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,4743.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+169,2024-08-01,5280471a6e,Plancha De Cabello Esyest 480f Infrarrojos Sellar Keratinas Color Negro,green_platinum,414,FBM,new,False,779.1,1590.01,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2003960871-plancha-de-cabello-esyest-480f-infrarrojos-sellar-keratinas-color-negro-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,12847.0,3.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+173,2024-08-01,4d679e7c93,4 En 1 Afeitadora Rasuradora Barba ElÃ©ctrica Recargable Kit Color Negro,green_platinum,344,FBM,new,False,155.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2803838972-4-en-1-afeitadora-rasuradora-barba-electrica-recargable-kit-color-negro-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,12020.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+184,2024-08-01,d84241913a,Kit Profesional UÃ±as Acrilicas Mc Nails + 6 Geles De Color,green_platinum,82,FBM,new,False,879.12,999.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2591980334-kit-profesional-unas-acrilicas-mc-nails-6-geles-de-color-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,33703.0,3.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+186,2024-08-01,aea6c1d6b2,Gama De Gel Semipermanente Mussa 6 Esmaltes Para UÃ±as Uv Color Rainbow,green_platinum,9,FBM,new,False,125.16,149.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2870976866-gama-de-gel-semipermanente-mussa-6-esmaltes-para-unas-uv-color-rainbow-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,27163.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+189,2024-08-01,1ea94edfde,Labial LÃ­quido Maybelline New York Superstay Matte Ink Acabado Mate Color 150 Pink Pathfinder,green_platinum,12,FBM,new,False,270.75,285.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1749295649-labial-liquido-maybelline-new-york-superstay-matte-ink-acabado-mate-color-150-pink-pathfinder-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,4711.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+194,2024-08-01,aef25b5a55,Tinta Henna Para Cejas PestaÃ±as Pigmento Gel Semipermanente,green_platinum,35,FBM,new,False,78.21,99.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2837804634-tinta-henna-para-cejas-pestanas-pigmento-gel-semipermanente-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,27203.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+197,2024-08-01,29a60bab63,Dior Addict Lip Maximizer Gloss Repulpant Maxi Hitratation Acabado Brillante Color Intense Grare 029,green_platinum,69,XD,new,False,889.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2064477137-dior-addict-lip-maximizer-gloss-repulpant-maxi-hitratation-acabado-brillante-color-intense-grare-029-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,6475.0,0.0,4.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+200,2024-08-01,7cda813f4c,Minoxidil Al 10% Blackbeard Adicionado Con Cafeina ,green_platinum,94,FBM,new,False,203.36,248.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1858104399-minoxidil-al-10-blackbeard-adicionado-con-cafeina-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,19408.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+201,2024-08-01,d9b43678e3,3 Pzas Gel De ConstrucciÃ³n Extensiones De UÃ±as O Pegamento ,green_platinum,34,FBM,new,False,89.99,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2033184743-3-pzas-gel-de-construccion-extensiones-de-unas-o-pegamento-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,33943.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+203,2024-08-01,d49889ce82,Jrl 2020c Y Jrl 2020t Gold Original Combo 2 Maquinas ,green,15,XD,new,False,5900.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2142739862-jrl-2020c-y-jrl-2020t-gold-original-combo-2-maquinas-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,33091.0,0.0,4.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",344
+207,2024-08-01,6e6d29237f,SÃ©rum Tranexamico 5% Despigmentante De DÃ­a Noche Para Todo Tipo De Piel De 30ml,green_platinum,39,FBM,new,False,551.0,580.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1495718287-serum-tranexamico-5-despigmentante-de-dia-noche-para-todo-tipo-de-piel-de-30ml-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,17114.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+210,2024-08-01,847a7a7019, Shampoo Para Piojos Liendres Incredible Shampiojo 1lt,green_platinum,19,FBM,new,False,99.75,105.0,HAIR,https://articulo.mercadolibre.com.mx/MLM-1555937099-shampoo-para-piojos-liendres-incredible-shampiojo-1lt-_JM,HAIR,CUIDADO DEL CABELLO,20650.0,2.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria HAIR Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",343
+216,2024-08-01,f5c70ed231,Gel Blanco Lechoso Milky Uv/led Gel Semi Permanente 1pz,green_gold,90,FBM,new,False,89.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1531304309-gel-blanco-lechoso-milky-uvled-gel-semi-permanente-1pz-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,38290.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+224,2024-08-01,07d5880490,"RÃ­mel, MÃ¡scara PestaÃ±as Prosa Diferentes Estilos Full",green_gold,2,FBM,new,False,72.2,76.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-792834097-rimel-mascara-pestanas-prosa-diferentes-estilos-full-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,1208.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+225,2024-08-01,28297bef4a,Vita Color Rubber Gel One Shot Con Vitaminas Y Calcio,green_platinum,122,FBM,new,False,265.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1503835047-vita-color-rubber-gel-one-shot-con-vitaminas-y-calcio-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,6254.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+226,2024-08-01,c1df396995,PestaÃ±as Mink Rizado De PestaÃ±as Postizas 30p+40p Mixto,green_platinum,75,FBM,new,False,172.84,298.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1969662257-pestanas-mink-rizado-de-pestanas-postizas-30p40p-mixto-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,30201.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+227,2024-08-01,61516d7729,"Mielle Aceite Fortalecedor Del Cuero Cabelludo, Cabello 59ml",green_platinum,5,DS,new,False,340.0,,HAIR,https://articulo.mercadolibre.com.mx/MLM-2929515112-mielle-aceite-fortalecedor-del-cuero-cabelludo-cabello-59ml-_JM,HAIR,CUIDADO DEL CABELLO,15113.0,3.0,0.0,DS,DropShipping,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: DS Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria HAIR Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",342
+228,2024-08-01,50a8605e9a,Alaciado Nanoplastia 1 L,green_silver,24,FBM,new,False,648.6,940.0,HAIR,https://articulo.mercadolibre.com.mx/MLM-959464063-alaciado-nanoplastia-1-l-_JM,HAIR,CUIDADO DEL CABELLO,12532.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria HAIR Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",343
+229,2024-08-01,7139c1b7db,Peluca Rubia Natural Larga Ondulada Cosplay Mujer Dama,green_platinum,185,FBM,new,False,189.3,205.77,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2377172422-peluca-rubia-natural-larga-ondulada-cosplay-mujer-dama-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,17556.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+231,2024-08-01,3a1b3b4eb5,DecoraciÃ³n De UÃ±as Stickers Tattoo De Nails  24 Hojas ,green_gold,0,FBM,new,False,95.2,112.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-780443085-decoracion-de-unas-stickers-tattoo-de-nails-24-hojas-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,8986.0,0.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+234,2024-08-01,dfe9fd86fe,"SÃ©rum Serum Retinol Vitamina E, D, A, B Y Acido Hialuronico Mist Jewel Noche Para Todo Tipo De Piel De 50ml 20+ AÃ±os",green_platinum,17,FBM,new,False,255.2,319.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1913054879-serum-serum-retinol-vitamina-e-d-a-b-y-acido-hialuronico-mist-jewel-noche-para-todo-tipo-de-piel-de-50ml-20-anos-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,34900.0,0.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+235,2024-08-01,9b9cc86953, Beautybox Organizador De 30 Fresas De Torno Pulidor De UÃ±as,green_gold,80,FBM,new,False,98.02,169.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-3171614040-beautybox-organizador-de-30-fresas-de-torno-pulidor-de-unas-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,24195.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+238,2024-08-01,1ed0d6f89e,"Tips Extralargos Curva C Xxl 200 Pz , Mc Nails Color Blanco",green_platinum,18,FBM,new,False,79.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1922869065-tips-extralargos-curva-c-xxl-200-pz-mc-nails-color-blanco-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,4743.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+239,2024-08-01,491303780b,Set Esponjas De Maquillaje Beauty Creations Blend It Girl Color Pink,green_platinum,1,XD,new,False,109.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2046384705-set-esponjas-de-maquillaje-beauty-creations-blend-it-girl-color-pink-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,11327.0,2.0,1.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+243,2024-08-01,b16e210fa8,"Cepillo Para UÃ±as #10, Rosa,100% Kolinsky,pelo Natural",green_gold,87,FBM,new,False,286.01,953.82,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1445722187-cepillo-para-unas-10-rosa100-kolinskypelo-natural-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,27601.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+244,2024-08-01,bce1e038ce,Sheglam Blush LÃ­quido Color Bloom Larga DuraciÃ³n Rose Ritual Tono Del Maquillaje Rosse Ritual,green_silver,0,XD,new,False,138.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1947712445-sheglam-blush-liquido-color-bloom-larga-duracion-rose-ritual-tono-del-maquillaje-rosse-ritual-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,29429.0,3.0,0.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+246,2024-08-01,70d9b32288,Base De Maquillaje En Polvo Beauty Creations Flawless Stay Flawless Stay Flawless Stay Tono Fsp 11,green_platinum,0,FBM,new,False,180.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2102537969-base-de-maquillaje-en-polvo-beauty-creations-flawless-stay-flawless-stay-flawless-stay-tono-fsp-11-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,17508.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+247,2024-08-01,a35450f247,Cosrx Acne Pimple Master Patch + Clear Fit Master Patch,green_platinum,63,FBM,new,False,176.7,186.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1873129665-cosrx-acne-pimple-master-patch-clear-fit-master-patch-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,25353.0,2.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+248,2024-08-01,de82f41a3e,Cortadora De Pelo Maquina Para Cortar Cabello Rasuradora Kit,green_platinum,146,FBM,new,False,492.8,896.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1491324057-cortadora-de-pelo-maquina-para-cortar-cabello-rasuradora-kit-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,34686.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+249,2024-08-01,ea61286965,Effaclar Duo (+) M Crema Hidratante Anti-imperfecciones,green_platinum,45,DS,new,False,499.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2080410327-effaclar-duo-m-crema-hidratante-anti-imperfecciones-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,36501.0,3.0,4.0,DS,DropShipping,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: DS Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+253,2024-08-01,c9d847dc45,Oxys | Crema Para El Rostro | (1) Pack Momento De AplicaciÃ³n DÃ­a/noche Tipo De Piel Mixta,green_gold,236,XD,new,False,239.2,299.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2962890542-oxys-crema-para-el-rostro-1-pack-momento-de-aplicacion-dianoche-tipo-de-piel-mixta-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,31405.0,0.0,4.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+257,2024-08-01,3d5add92d4,L'bel - Base De Maquillaje Nude Skin,green_platinum,2,FBM,new,False,331.5,510.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1488583102-lbel-base-de-maquillaje-nude-skin-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,9486.0,2.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+258,2024-08-01,d84241913a,Mascara PestaÃ±as Exactitud Alargadora Transparente Serum Kj,green_platinum,9,FBM,new,False,74.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-3068183782-mascara-pestanas-exactitud-alargadora-transparente-serum-kj-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,33703.0,3.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+260,2024-08-01,9130020e92,Electroestimulador Terapia Muscular Digital,green_silver,38,FBM,new,False,350.55,369.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1908619271-electroestimulador-terapia-muscular-digital-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,22573.0,0.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+261,2024-08-01,37e8bb9072,Aceite Tratamiento Para Cabello Kerastase Elixir Ultime 50ml,green_platinum,61,FBM,new,False,510.0,,HAIR,https://articulo.mercadolibre.com.mx/MLM-2073617321-aceite-tratamiento-para-cabello-kerastase-elixir-ultime-50ml-_JM,HAIR,CUIDADO DEL CABELLO,8669.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria HAIR Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",343
+263,2024-08-01,07f9fbc32b,Sevich 100g Fibra Capilar Calvici Barba Cabello Envio Gratis,green_platinum,219,FBM,new,False,298.0,,HAIR,https://articulo.mercadolibre.com.mx/MLM-572490481-sevich-100g-fibra-capilar-calvici-barba-cabello-envio-gratis-_JM,HAIR,CUIDADO DEL CABELLO,1234.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria HAIR Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",343
+264,2024-08-01,a9aa0b6246,Decant De 10 Ml De Imagination De Louis Vuitton,green_silver,13,FBM,new,False,949.05,999.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2894815932-decant-de-10-ml-de-imagination-de-louis-vuitton-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,26385.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+265,2024-08-01,138d93937b,Brochas Maquillaje Kit 13 Pcs Para Maquillaje Principiantes,green_silver,100,FBM,new,False,65.25,145.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1948815867-brochas-maquillaje-kit-13-pcs-para-maquillaje-principiantes-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,3047.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+266,2024-08-01,26625c49da,10 Cartucho Punta Aguja Repuesto Dermapen  9 12 36 42  Nano ,green_gold,158,XD,new,False,194.25,259.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-833719309-10-cartucho-punta-aguja-repuesto-dermapen-9-12-36-42-nano-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,5978.0,0.0,4.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+268,2024-08-01,07f9389516,Labial Liquido Mousse Matte Liquid Italia Deluxe Acabado Mate Color 02 Cocoa,green_gold,1,XD,new,False,119.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2096683605-labial-liquido-mousse-matte-liquid-italia-deluxe-acabado-mate-color-02-cocoa-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,1233.0,3.0,0.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+269,2024-08-01,756767fb49, Parches Anti AcnÃ© Y Granos 120 Pcs Con Hidrocoloides,green_silver,10,FBM,new,False,83.3,98.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2022666913-parches-anti-acne-y-granos-120-pcs-con-hidrocoloides-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,18237.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+271,2024-08-01,dc76e5f688,Crema Vitamina C Bioaqua Aclara Elimina Manchas PaÃ±o Momento De AplicaciÃ³n DÃ­a/noche Tipo De Piel Todo Tipo De Piel,green_platinum,339,FBM,new,False,39.72,44.63,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1976463979-crema-vitamina-c-bioaqua-aclara-elimina-manchas-pano-momento-de-aplicacion-dianoche-tipo-de-piel-todo-tipo-de-piel-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,34382.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+273,2024-08-01,a9c03cf5a9,1 Ml En Decant De Baccarat Rouge 540 Extrait F. Kurkdjian,green_gold,8,XD,new,False,285.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1883224064-1-ml-en-decant-de-baccarat-rouge-540-extrait-f-kurkdjian-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,26401.0,2.0,1.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+274,2024-08-01,fa747c2a3d,Sillon Estacion Basica Pedicura Set 1 Pedispa,green,1,Otro,new,False,3299.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1894628999-sillon-estacion-basica-pedicura-set-1-pedispa-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,39005.0,0.0,4.0,Otro,Otro,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: Otro Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+275,2024-08-01,e7ace1966b,"L'orÃ©al Paris, Fijador De Maquillaje Tono Del Primer Agua",green,0,XD,new,False,593.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2083699927-loreal-paris-fijador-de-maquillaje-tono-del-primer-agua-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,36084.0,0.0,0.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",344
+277,2024-08-01,14a81e2182,Discos De Papel Lija Repuesto Para Lima ElÃ©ctrica De Pie,green_platinum,148,FBM,new,False,129.94,178.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1666743023-discos-de-papel-lija-repuesto-para-lima-electrica-de-pie-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,3221.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+278,2024-08-01,054c49fd36,Remover Magic Quita Gelish Y AcrÃ­lico 3 Pzas. Ya Yang,green_silver,116,FBM,new,False,148.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2915077276-remover-magic-quita-gelish-y-acrilico-3-pzas-ya-yang-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,801.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+280,2024-08-01,78ca9e09cd,Paco Rabanne Invictus Original Eau De Toilette 100Â ml Para  Hombre,green_platinum,61,XD,new,False,1199.98,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1983646569-paco-rabanne-invictus-original-eau-de-toilette-100ml-para-hombre-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,18782.0,3.0,0.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+283,2024-08-01,36fbb416cc,Nautica Classic Eau De Toilette 100Â ml Para  Hombre,green_platinum,11,FBM,new,False,1246.4,1312.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-3109939736-nautica-classic-eau-de-toilette-100ml-para-hombre-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,8533.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+284,2024-08-01,f2e9fca5a8,Extensiones 100% De Kanekalon Puro Para Trenzas Africanas Color Negro PÃºrpura Gris Sygirlish,green_gold,47,XD,new,False,93.1,98.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2961609432-extensiones-100-de-kanekalon-puro-para-trenzas-africanas-color-negro-purpura-gris-sygirlish-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,37833.0,3.0,0.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+286,2024-08-01,f744ae10c4,Cera Depilatoria Baykini Varios Aromas 250g,green_platinum,76,FBM,new,False,159.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1988498787-cera-depilatoria-baykini-varios-aromas-250g-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,38545.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+287,2024-08-01,f2a77f85b9,Estantes Flotantes De AcrÃ­lico Para Esmaltes De UÃ±as 6pcs,green_platinum,227,FBM,new,False,220.52,298.0,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1924687659-estantes-flotantes-de-acrilico-para-esmaltes-de-unas-6pcs-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,37790.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+289,2024-08-01,dc76e5f688,Polvo Compacto Maquillaje Para Rostro BissÃº Original ,green_platinum,82,FBM,new,False,120.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-941973860-polvo-compacto-maquillaje-para-rostro-bissu-original-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,34382.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+290,2024-08-01,28a694562e,Dermapen Pluma Facial  M7-w + 12 Repuestos + Kit Lanbena,green_platinum,45,XD,new,False,1389.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2411880830-dermapen-pluma-facial-m7-w-12-repuestos-kit-lanbena-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,6318.0,3.0,0.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+296,2024-08-01,fd05df4720,Afnan 9pm For Men 100ml Edp,green_platinum,22,DS,new,False,780.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2079557919-afnan-9pm-for-men-100ml-edp-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,39405.0,3.0,4.0,DS,DropShipping,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: DS Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+299,2024-08-01,b3fa6b1885,Rasuradora Kemei Km-tx1 Dorada 110v/240v,green_platinum,24,FBM,new,False,759.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1586117077-rasuradora-kemei-km-tx1-dorada-110v240v-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,28000.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+309,2024-08-01,562a1ad024,Kit J Denis Laminado + Pigmento Cejas,green,5,XD,new,False,570.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1877279323-kit-j-denis-laminado-pigmento-cejas-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,13391.0,0.0,0.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+310,2024-08-01,7db7848307,Combo Babylisspro Recortadora Perfiladora Shaver Gold Fx,green_platinum,6,XD,new,False,8500.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2030622567-combo-babylisspro-recortadora-perfiladora-shaver-gold-fx-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,19573.0,3.0,1.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+311,2024-08-01,e9852f7678,Labial LÃ­quido Stuck On You Tinta Italia Deluxe,green_gold,2,XD,new,False,75.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2029452593-labial-liquido-stuck-on-you-tinta-italia-deluxe-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,36358.0,2.0,1.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+314,2024-08-01,f29f1e5242,La Roche Posay Mela B3 Serum Antimanchas 30ml,green,229,XD,new,False,739.26,999.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-3278488540-la-roche-posay-mela-b3-serum-antimanchas-30ml-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,37784.0,3.0,3.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",344
+315,2024-08-01,35fadbcba5,Jafra Double Nature Diablito 50 Ml,green,8,XD,new,False,199.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-815070381-jafra-double-nature-diablito-50-ml-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,8382.0,0.0,4.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",344
+316,2024-08-01,605689725f,Bleu Intense Y Bleu Intense Night L'bel De 100 Ml.,green_platinum,171,FBM,new,False,555.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-768982427-bleu-intense-y-bleu-intense-night-lbel-de-100-ml-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,14958.0,2.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+317,2024-08-01,c6944c648f,Base De Maquillaje Maybelline Fit Me Fps 22 Matte 30 Ml Tono 322 Warm Honey,green_silver,3,XD,new,False,334.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2351172556-base-de-maquillaje-maybelline-fit-me-fps-22-matte-30-ml-tono-322-warm-honey-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,30907.0,0.0,4.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+318,2024-08-01,da69397a28, Bleu De Chanel Eau De Toilette 150Â ml Para  Hombre,green_silver,2,XD,new,False,2099.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1886753255-bleu-de-chanel-eau-de-toilette-150ml-para-hombre-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,34061.0,3.0,0.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+320,2024-08-01,8ace03e4e4,Rodillo De Masaje Facial De Jade Gua Sha Rejuvenece Kit,green_silver,274,FBM,new,False,142.17,149.65,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1817151510-rodillo-de-masaje-facial-de-jade-gua-sha-rejuvenece-kit-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,21598.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+322,2024-08-01,66b935f6fb, Eau De Parfum 100Â ml Para  Mujer,green_platinum,7,FBM,new,False,1890.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1864318801-eau-de-parfum-100ml-para-mujer-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,15920.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+323,2024-08-01,233f5158f6,AcrÃ­lico Wapizima UÃ±as ColecciÃ³n De 3 Piezas Glow Efecto,green_silver,8,XD,new,False,148.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1955260343-acrilico-wapizima-unas-coleccion-de-3-piezas-glow-efecto-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,5432.0,3.0,0.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+325,2024-08-01,c325a042d3,Effaclar Duo (+) Corrector 40 Ml La Roche Posay,green_gold,21,XD,new,False,293.02,598.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2107219755-effaclar-duo-corrector-40-ml-la-roche-posay-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,30402.0,0.0,4.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+327,2024-08-01,316e089731,Combo Clipper & Trimmer Cordless Lithium Black Fxholpklp-bes Color Negro,green_platinum,13,XD,new,False,4499.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1909251151-combo-clipper-trimmer-cordless-lithium-black-fxholpklp-bes-color-negro-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,7681.0,3.0,0.0,XD,Cross Docking,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+328,2024-08-01,4c3968d181,Base De Maquillaje Liquida Alta Alta Cobertura Efecto Mate,green_gold,379,XD,new,False,298.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1571792793-base-de-maquillaje-liquida-alta-alta-cobertura-efecto-mate-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,11846.0,3.0,0.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+330,2024-08-01,41a42a2d6b,Kit Para Extensiones De PestaÃ±as Profesional PrÃ¡ctica 1x1 ,green_gold,15,XD,new,False,1295.7,1363.9,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2073146129-kit-para-extensiones-de-pestanas-profesional-practica-1x1-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,10174.0,0.0,0.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+332,2024-08-01,37c39a664a,"Isdin Fotoprotector Facial Fusion Water Color Spf 50, 50 Ml",green,224,XD,new,False,405.79,533.94,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-3232267270-isdin-fotoprotector-facial-fusion-water-color-spf-50-50-ml-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,8651.0,3.0,4.0,XD,Cross Docking,"reputation: green Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",344
+333,2024-08-01,58c84abe7a,Tocobo Protector Solar Cica Cooling Sun Stick En Barra Spf50 Pa 18g,green_platinum,164,FBM,new,False,288.0,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2063534253-tocobo-protector-solar-cica-cooling-sun-stick-en-barra-spf50-pa-18g-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,13794.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+337,2024-08-01,9e744c61b0,Shiseido | Eyelash Curler,green_gold,1,XD,new,False,869.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2769867868-shiseido-eyelash-curler-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,24608.0,0.0,4.0,XD,Cross Docking,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",345
+338,2024-08-01,3a28ec816e,Bioderma Pigmentbio Sensitive Areas 75ml ,green_platinum,68,FBM,new,False,580.0,725.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1383521068-bioderma-pigmentbio-sensitive-areas-75ml-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,8997.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+339,2024-08-01,d9b43678e3, 6 Pzas De Bombas Efervescentes Pedicura Y Manicura Spa,green_platinum,166,FBM,new,False,99.99,,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-2027499835-6-pzas-de-bombas-efervescentes-pedicura-y-manicura-spa-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,33943.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+340,2024-08-01,245cfb6d4b,PestaÃ±as MagnÃ©ticas Premium Estilo Ligero 1 Par + Delineador Color Negro,green_gold,53,FBM,new,False,189.05,199.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-1976796539-pestanas-magneticas-premium-estilo-ligero-1-par-delineador-color-negro-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,5624.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+341,2024-08-01,e17ebffcbe,Cera En Polvo Para Cabello Matificante Y Volumen,green_silver,4,XD,new,False,147.0,,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2621070494-cera-en-polvo-para-cabello-matificante-y-volumen-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,35137.0,0.0,4.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+342,2024-08-01,d30431c65f,Organizador Maquillaje CosmÃ©ticos AcrÃ­lico Transparente 360Â°,green_platinum,140,FBM,new,False,179.01,459.0,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1853920095-organizador-maquillaje-cosmeticos-acrilico-transparente-360-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,32828.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+345,2024-08-01,d84241913a,Agua De Rosas Refresca E Hidrata Fijador De Maquillaje Kj ,green_platinum,120,FBM,new,False,68.0,85.0,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1949532623-agua-de-rosas-refresca-e-hidrata-fijador-de-maquillaje-kj-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,33703.0,3.0,1.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+346,2024-08-01,28297bef4a,"Pack Solucion Antiseptica + Finish Limpiador , UÃ±as Mc Nails",green_platinum,105,FBM,new,False,109.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1873676863-pack-solucion-antiseptica-finish-limpiador-unas-mc-nails-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,6254.0,2.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+347,2024-08-01,08b997dc93,"Gama Gel Semipermanente Gelly UÃ±as 6 Pz Por Gama , Wapizima Color Pasteles",green_silver,8,FBM,new,False,235.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2945905330-gama-gel-semipermanente-gelly-unas-6-pz-por-gama-wapizima-color-pasteles-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,1346.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+351,2024-08-01,85c472986a,Rubor Liquido Cheeky Baby Italia Deluxe,green_gold,28,FBM,new,False,104.4,109.9,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-1415412624-rubor-liquido-cheeky-baby-italia-deluxe-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,20824.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_gold Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",346
+352,2024-08-01,2f1d2310ef,Gamas De Gel-semi-permanente Fantasy Nails 6pzs,green_silver,14,XD,new,False,295.0,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-2010223747-gamas-de-gel-semi-permanente-fantasy-nails-6pzs-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,7338.0,3.0,1.0,XD,Cross Docking,"reputation: green_silver Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: XD Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+353,2024-08-01,4a86f10229,M-pro Nova Old Scull Clipper Cortadora Profesional Barberia,green_platinum,1,FBM,new,False,2399.0,2998.75,BEAUTY PERSONAL CARE,https://articulo.mercadolibre.com.mx/MLM-1767010378-m-pro-nova-old-scull-clipper-cortadora-profesional-barberia-_JM,BEAUTY PERSONAL CARE,CUIDADO PERSONAL Y BELLEZA,11571.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PERSONAL CARE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347
+355,2024-08-01,769c5946a1,Juego De Tijeras Para Cortar Cabello Profesional Barbero 10,green_platinum,68,FBM,new,False,194.88,232.0,BEAUTY PROFESSIONAL,https://articulo.mercadolibre.com.mx/MLM-2046958277-juego-de-tijeras-para-cortar-cabello-profesional-barbero-10-_JM,BEAUTY PROFESSIONAL,BELLEZA PROFESIONAL,18429.0,0.0,4.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria BEAUTY PROFESSIONAL Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+356,2024-08-01,606527c1de,"Pincel Kolinsky No 2, 4, 6, 8, 10 Y 12 AcrÃ­lico A Elegir",green_platinum,139,FBM,new,False,59.99,,MANICURE & PEDICURE,https://articulo.mercadolibre.com.mx/MLM-1819543808-pincel-kolinsky-no-2-4-6-8-10-y-12-acrilico-a-elegir-_JM,MANICURE & PEDICURE,MANICURA Y PEDICURA,14970.0,3.0,0.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria MANICURE & PEDICURE Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",348
+357,2024-08-01,1ea94edfde,Labial Liquido Infaillible Le Matte Resistance L'orÃ©al Paris Acabado Mate Aterciopelado Color 420 Le Rouge Paris,green_platinum,2,FBM,new,False,352.0,,FRAGRANCES & MAKE UP,https://articulo.mercadolibre.com.mx/MLM-2025696827-labial-liquido-infaillible-le-matte-resistance-loreal-paris-acabado-mate-aterciopelado-color-420-le-rouge-paris-_JM,FRAGRANCES & MAKE UP,FRAGANCIAS Y MAQUILLAJE,4711.0,1.0,2.0,FBM,FulfilledbyMerchant,"reputation: green_platinum Stock: 0         16155
+1          6253
+2         10066
+3         19678
+4          4862
+          ...  
+185245        2
+185246      173
+185247        1
+185248        0
+185249       10
+Name: stock, Length: 185250, dtype: int64 Refurbished: 0         False
+1         False
+2         False
+3         False
+4         False
+          ...  
+185245    False
+185246    False
+185247    False
+185248    False
+185249    False
+Name: is_refurbished, Length: 185250, dtype: bool Logistic: FBM Condition: new Price: 0          260.93
+1          344.26
+2          363.00
+3          241.00
+4          133.47
+           ...   
+185245    9590.00
+185246    2353.00
+185247    2895.00
+185248     540.00
+185249     599.00
+Name: price, Length: 185250, dtype: float64 Categoria FRAGRANCES & MAKE UP Precio Regular: 0         355.00
+1            NaN
+2         660.00
+3         410.00
+4         152.49
+           ...  
+185245       NaN
+185246       NaN
+185247       NaN
+185248       NaN
+185249       NaN
+Name: regular_price, Length: 185250, dtype: float64",347

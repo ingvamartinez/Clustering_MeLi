@@ -17,7 +17,7 @@ numpy
 yellowbrick
 matplotlib
 seaborn
-os
 pathlib
 jinja2
+os
 pickle
