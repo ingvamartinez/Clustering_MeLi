@@ -22,24 +22,25 @@ El enfoque combina análisis estadístico, procesamiento semántico de datos y t
 | 🤖 **scikit-learn** | Modelado de clustering y clasificación. |
 | 🧠 **OpenAI – text-embedding-3-small** | Generación de embeddings vectoriales. |
 | ⚡ **GenaAI** | Integración de automatizaciones e inteligencia generativa. |
-| 📊 **Power BI** | Visualización y dashboard de resultados. |
+
 
 ---
 
 ## 🎯 Objetivo del proyecto
 Desarrollar un sistema que permita **agrupar (clustering)** a los vendedores con base en sus características y comportamientos, y luego **clasificar** nuevos sellers dentro de los grupos definidos.  
 
-Esto habilita a los equipos de negocio y marketing para:
-- Identificar **segmentos de alto crecimiento**.  
-- Detectar **vendedores potenciales o en riesgo**.  
-- Dirigir **campañas personalizadas** que aumenten la conversión e ingresos.
+En la actualidad, se ha detectado una oportunidad en la clasificacion de los sellers, pues se estan generando acciones a clientes que no tienen la capacidad y algunas ocasiones estas no llegan a clientes importantes.
+
+Por tal razón es necesario realizar una nuevamente un clasificación de nuestros sellers, donde nuestras acciones se han optimas a los sellers que queremos llegar.
 
 ---
 
 ## 📊 Resultados e impacto
 El modelo permitió **identificar patrones significativos** entre diferentes tipos de vendedores, destacando:
 - **Grupos con alto potencial de expansión**  
-- **Clusters de baja performance** con oportunidades de retención.  
+- **Confianza, Si nuestros sellers sienten que las acciones que tomamos son exitosas en sus mercados, fidelizamos al seller!, incentivando a que concentre productos que tienen en otros marketplaces en Meli.
+- **Atracción, siempre las cosas buenas se comunican, Si nuestros están felices con nuestras estrategias, atraerán a sellers potenciales de otros marketplaces.
+- **Incrementar las ventas de nuestros sellers, esto genera un ingreso significativo tanto para los sellers como para nosotros. Si nuestras acciones son dirigidas a los clientes objetivos, se garantizara el éxito de la estrategia y esta no se perderá en otros sellers.    
 - **Clasificación automática** de nuevos sellers con alta precisión.  
 
 El impacto potencial incluye **mejor segmentación**, **mayor eficiencia comercial** y **acciones de marketing basadas en datos reales**.
@@ -49,7 +50,7 @@ El impacto potencial incluye **mejor segmentación**, **mayor eficiencia comerci
 ## 🧩 Arquitectura general
 
 ```
-Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddings → Clasificación → Visualización (Power BI)
+Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddings → Clasificación
 ```
 
 ---
@@ -58,12 +59,35 @@ Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddin
 
 ![](src/image/meli6.png) 
 
-Representación conceptual de los clústeres y clasificación de vendedores según su comportamiento.
+Representación conceptual de los clústeres y clasificación de sellers según su comportamiento.
 
 ---
 
 ## 🚀 Conclusiones
 Este proyecto demuestra cómo la **inteligencia artificial y el análisis de datos** pueden transformar la gestión del e-commerce, ayudando a descubrir patrones ocultos y a tomar decisiones estratégicas basadas en evidencia.  
+
+ - Una parte fundamental en este ejercicio fue elegir un conjunto de datos, que mantuvieran la información necesaria tanto para poder realizar la cauterización como para la clasificación. Saber identificar que datos, imputar o eliminar marcan   la diferencia. ya que en la versión v3, se elimino completamente la columna “regular_prices”, ya que tenia un 73% de datos null.
+- Es muy bueno analizar los datos outlier, en este caso en particular los outlier representaban clientes muy específicos. en el v2 los elimine y en el v3 los mantuve, cabe resaltar que estas variables se pueden revisar con el negocio ya que     poseen mayor conocimiento de ello.
+- Tener muchas variables no mejora la implementacion de un modelo de machine learning, puede hacer que el modelo se vuelva robusto.
+- El uso de embedding en el manejo de varbiables categoricas es indiscutibles, esto permite muchos mas que una codificacion.
+- Evaluar diferentes modelos es primordial, ya que no todos los modelos se comportan igual con las caracteristicas de los datos.
+
+### Segmentacion segun patrones identificados:
+
+| Kmeans |  stock  |     price    | Products | Sellers |
+| :----: | :-----: | :----------: | :------: | :-----: |
+|   0.0  |  66.38  |    2256.25   |   3.10   |  73,984 |
+|   1.0  | 4698.62 |    463.72    |   5.30   |  1,157  |
+|   2.0  |   1.00  | 9,645,999.80 |   1.00   |    5    |
+|   3.0  |  44.15  |    1686.09   |   37.65  |  18,082 |
+|   4.0  |  97.97  |    2083.99   |   13.00  |  38,367 |
+
+Cluster 0:  Sellers Estables: alta densidad de sellers, con precios medios y promedio en stock razonable. con un catalogo ya maduro pues, se carateriza por tener buen inventario de ellos.
+Cluster 1:  Sellers Mayoristas: Mantiene un stock alto, pocos productos y precios bajos.
+Cluster 2: Sellers Premiuns Ocasionales: un stock demasiado bajo, pocos productos y precios altos.
+Cluster 3: Sellers Volumen: Ya que manejan altos inventarios sobre los mayoristas, con un precio demasiado bajo y poco productos, su negocio se centra exclusivamente en vender cantidades.
+Cluster 4: Sellers Dinamicos: un stock promedio con precios altos, pocos productos, catalogo especializado.
+
 
 El siguiente paso será integrar estos modelos dentro de un flujo automatizado que actualice y clasifique vendedores en tiempo real.  
 
