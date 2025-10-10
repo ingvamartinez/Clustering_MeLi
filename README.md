@@ -74,8 +74,13 @@ Se Generaron 5 Clusters.
 **Los Algoritmos para las Clasificacion fueron:**
 
 - **Random Forest Classifier**: que en nuestra version 3, tuvo Score(Accuracy): 0.77.
+  ![](src/image/RF.png)
+  
 - **Supprt Vector Machine Classifier**: que en nuestra version 3, tuvo Score(Accuracy): 0.83.
+  ![](src/image/SVM.png)
+   
 - **XGBoost Classifier**: que en nuestra version 3, tuvo Score(silouette_avg)PC3: 0.82.
+- ![](src/image/XGBoost.png) 
 
 ---
 
