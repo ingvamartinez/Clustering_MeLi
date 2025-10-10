@@ -86,7 +86,7 @@ Se Generaron 5 Clusters.
 
 ![](src/image/meli6.png) 
 
-Representación conceptual de los clústeres y clasificación de sellers según su comportamiento.
+
 
 ---
 
@@ -99,6 +99,7 @@ Este proyecto demuestra cómo la **inteligencia artificial y el análisis de dat
 - El uso de embedding en el manejo de varbiables categoricas es indiscutibles, esto permite muchos mas que una codificacion.
 - Evaluar diferentes modelos es primordial, ya que no todos los modelos se comportan igual con las caracteristicas de los datos.
 
+Representación conceptual de los clústeres y clasificación de sellers según su comportamiento.
 ### Segmentacion segun patrones identificados:
 
 | Kmeans |  stock  |     price    | Products | Sellers |
