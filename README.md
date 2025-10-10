@@ -84,8 +84,6 @@ Se Generaron 5 Clusters.
 
 ---
 
-## 📈 Ejemplo visual (conceptual)
-
 ![](src/image/meli6.png) 
 
 Representación conceptual de los clústeres y clasificación de sellers según su comportamiento.
