@@ -11,8 +11,7 @@ openai
 ollama
 langchain-community
 plotly
-pandas
-scikit-learn
+xgboost
 numpy
 yellowbrick
 matplotlib
