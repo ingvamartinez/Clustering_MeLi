@@ -38,9 +38,9 @@ Por tal razón es necesario realizar una nuevamente un clasificación de nuestro
 ## 📊 Resultados e impacto
 El modelo permitió **identificar patrones significativos** entre diferentes tipos de vendedores, destacando:
 - **Grupos con alto potencial de expansión**  
-- **Confianza, Si nuestros sellers sienten que las acciones que tomamos son exitosas en sus mercados, fidelizamos al seller!, incentivando a que concentre productos que tienen en otros marketplaces en Meli.
-- **Atracción, siempre las cosas buenas se comunican, Si nuestros están felices con nuestras estrategias, atraerán a sellers potenciales de otros marketplaces.
-- **Incrementar las ventas de nuestros sellers, esto genera un ingreso significativo tanto para los sellers como para nosotros. Si nuestras acciones son dirigidas a los clientes objetivos, se garantizara el éxito de la estrategia y esta no se perderá en otros sellers.    
+- **Confianza**, Si nuestros sellers sienten que las acciones que tomamos son exitosas en sus mercados, fidelizamos al seller!, incentivando a que concentre productos que tienen en otros marketplaces en el nuestro.
+- **Atracción**, siempre las cosas buenas se comunican, Si nuestros están felices con nuestras estrategias, atraerán a sellers potenciales de otros marketplaces.
+- **Incrementar las ventas de nuestros sellers**, esto genera un ingreso significativo tanto para los sellers como para nosotros. Si nuestras acciones son dirigidas a los clientes objetivos, se garantizara el éxito de la estrategia y esta no se perderá en otros sellers.    
 - **Clasificación automática** de nuevos sellers con alta precisión.  
 
 El impacto potencial incluye **mejor segmentación**, **mayor eficiencia comercial** y **acciones de marketing basadas en datos reales**.
@@ -52,6 +52,30 @@ El impacto potencial incluye **mejor segmentación**, **mayor eficiencia comerci
 ```
 Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddings → Clasificación
 ```
+**Entendimiento de la Data**, Se realizo un una analisis exploratorio, en los cuales se conocio, que la data obtenida tenia datos nulos, datos outlier, variables categoricas y variables numericas, se validaron las variables, se realizo analisis de distribusion y correlacion, que permitieron conocer las relaciones que pueden darse entre las variables.
+
+**Preparación de la Data**, se realizaron 3 tratamientos diferentes de datos, lo cual llevo a realizar 3 experiencias para poder seleccionar el mejor resultado. Entre las 3 experiencias realizamos las siguientes operaciones: limpieza de datos, eliminación de outliers, eliminación de datos nulos, creación de nuevas variables, reduccion de dimensionalidad y one-hot-encoder.
+
+**Modelado**, se entrenaron 3 algoritmos en cada implementacion, Clusterizacion y Clasificacion. Para evaluar los algoritmos de  clusterizacion se utilizo analisis de Silueta y para los de clasificacion se evaluaron F1-Score, Recall, Precision, Accuracy y la matrix de confusion.
+
+**Embeddings**, En la Calsificacion se generaron embeddings para mejorar el rendimiento de los algoritmos, como se menciona anteriormente se utilizao el embedding de Openai "text-embedding-3-smaall".
+
+se entrenaron 3 algoritmos en cada implementacion, Clusterizacion y Clasificacion. Para evaluar los algoritmos de  clusterizacion se utilizo analisis de Silueta y para los de clasificacion se evaluaron F1-Score, Recall, Precision, Accuracy y la matrix de confusion.
+
+Resumen de Evaluacion de los Modelos:
+
+**Los Algoritmos para las Clusterizacion fueron:**
+
+Se Generaron 5 Clusters.
+- **Kmenas**: que en nuestra version 3, tuvo Score(silouette_avg)PC3: 0.767326793310841
+- **DBScan**: que en nuestra version 3, tuvo Score(silouette_avg)PC3: 0.9136421236774568
+- **Aglomerativo**: que en nuestra version 3, tuvo Score(silouette_avg)PC3: 0.7780466990121443
+
+**Los Algoritmos para las Clasificacion fueron:**
+
+- **Random Forest Classifier**: que en nuestra version 3, tuvo Score(Accuracy): 0.77.
+- **Supprt Vector Machine Classifier**: que en nuestra version 3, tuvo Score(Accuracy): 0.83.
+- **XGBoost Classifier**: que en nuestra version 3, tuvo Score(silouette_avg)PC3: 0.82.
 
 ---
 
