@@ -1,11 +1,11 @@
 ![](src/image/meli7.png)
-# 🧩 Clustering y Clasificación de Sellers en E-Commerce – Proyecto de Análisis de Datos
+# Clustering y Clasificación de Sellers en E-Commerce – Proyecto de Análisis de Datos
 
 > **Proyecto de análisis avanzado de datos para entender, segmentar y predecir el comportamiento de vendedores en plataformas de comercio electrónico.**
 
 ---
 
-## 🧠 Descripción general
+##  Descripción general
 En un entorno digital tan competitivo como el e-commerce, entender el comportamiento de los **sellers** es clave para impulsar estrategias de crecimiento.  
 Este proyecto utiliza **Machine Learning** y **embeddings generados con modelos de OpenAI** para realizar un **clustering inteligente de Sellers**, y posteriormente una **clasificación** de nuevos sellers dentro de estos clústeres.  
 
@@ -13,20 +13,20 @@ El enfoque combina análisis estadístico, procesamiento semántico de datos y t
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Tecnología | Descripción |
 |-------------|-------------|
-| 🐍 **Python** | Lenguaje principal para la implementación. |
-| 🧮 **Pandas** | Limpieza, transformación y análisis de datos. |
-| 🤖 **scikit-learn** | Modelado de clustering y clasificación. |
-| 🧠 **OpenAI – text-embedding-3-small** | Generación de embeddings vectoriales. |
-| ⚡ **GenaAI** | Integración de automatizaciones e inteligencia generativa. |
+|  **Python** | Lenguaje principal para la implementación. |
+|  **Pandas** | Limpieza, transformación y análisis de datos. |
+|  **scikit-learn** | Modelado de clustering y clasificación. |
+|  **OpenAI – text-embedding-3-small** | Generación de embeddings vectoriales. |
+|  **GenaAI** | Integración de automatizaciones e inteligencia generativa. |
 
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 Desarrollar un sistema que permita **agrupar (clustering)** a los vendedores con base en sus características y comportamientos, y luego **clasificar** nuevos sellers dentro de los grupos definidos.  
 
 En la actualidad, se ha detectado una oportunidad en la clasificacion de los sellers, pues se estan generando acciones a clientes que no tienen la capacidad y algunas ocasiones estas no llegan a clientes importantes.
@@ -35,7 +35,7 @@ Por tal razón es necesario realizar una nuevamente un clasificación de nuestro
 
 ---
 
-## 📊 Resultados e impacto
+##  Resultados e impacto
 El modelo permitió **identificar patrones significativos** entre diferentes tipos de vendedores, destacando:
 - **Grupos con alto potencial de expansión**  
 - **Confianza**, Si nuestros sellers sienten que las acciones que tomamos son exitosas en sus mercados, fidelizamos al seller!, incentivando a que concentre productos que tienen en otros marketplaces en el nuestro.
@@ -47,7 +47,7 @@ El impacto potencial incluye **mejor segmentación**, **mayor eficiencia comerci
 
 ---
 
-## 🧩 Arquitectura general
+##  Arquitectura general
 
 ```
 Extracción de datos → Limpieza y preprocesamiento → Clustering → Embeddings → Clasificación
@@ -90,7 +90,7 @@ Se Generaron 5 Clusters.
 
 ---
 
-## 🚀 Conclusiones
+##  Conclusiones
 Este proyecto demuestra cómo la **inteligencia artificial y el análisis de datos** pueden transformar la gestión del e-commerce, ayudando a descubrir patrones ocultos y a tomar decisiones estratégicas basadas en evidencia.  
 
  - Una parte fundamental en este ejercicio fue elegir un conjunto de datos, que mantuvieran la información necesaria tanto para poder realizar la cauterización como para la clasificación. Saber identificar que datos, imputar o eliminar marcan   la diferencia. ya que en la versión v3, se elimino completamente la columna “regular_prices”, ya que tenia un 73% de datos null.
@@ -123,5 +123,5 @@ El siguiente paso será integrar estos modelos dentro de un flujo automatizado q
 
 
 **Adrián Martínez**  
-📧 Contacto: ing.va.martinez@gmail.com*  
-💡 Proyecto desarrollado con propósito académico y analítico.
+Contacto: ing.va.martinez@gmail.com*  
+Proyecto desarrollado con propósito académico y analítico.
