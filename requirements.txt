@@ -20,3 +20,6 @@ pathlib
 jinja2
 os
 pickle
+langchain_core
+langchain_experimental
+langchain
